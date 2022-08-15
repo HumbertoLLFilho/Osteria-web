@@ -1,0 +1,32 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>disable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Assets\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\images\american-express.png" />
+    <None Include="wwwroot\images\cropper.jpg" />
+    <None Include="wwwroot\images\favicon.ico" />
+    <None Include="wwwroot\images\img.jpg" />
+    <None Include="wwwroot\images\inbox.png" />
+    <None Include="wwwroot\images\mastercard.png" />
+    <None Include="wwwroot\images\media.jpg" />
+    <None Include="wwwroot\images\paypal.png" />
+    <None Include="wwwroot\images\picture.jpg" />
+    <None Include="wwwroot\images\prod-1.jpg" />
+    <None Include="wwwroot\images\prod-2.jpg" />
+    <None Include="wwwroot\images\prod-3.jpg" />
+    <None Include="wwwroot\images\prod-4.jpg" />
+    <None Include="wwwroot\images\prod-5.jpg" />
+    <None Include="wwwroot\images\user.png" />
+    <None Include="wwwroot\images\visa.png" />
+  </ItemGroup>
+
+</Project>
